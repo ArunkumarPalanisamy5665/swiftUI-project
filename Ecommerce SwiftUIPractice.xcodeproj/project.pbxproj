@@ -16,6 +16,11 @@
 			path = "Ecommerce SwiftUIPractice";
 			sourceTree = "<group>";
 		};
+		CBE2508930B327CC00858D81 /* New Folder */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "New Folder";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		CBE2507230B2AFFC00858D81 = {
 			isa = PBXGroup;
 			children = (
+				CBE2508930B327CC00858D81 /* New Folder */,
 				CBE2507D30B2AFFC00858D81 /* Ecommerce SwiftUIPractice */,
 				CBE2507C30B2AFFC00858D81 /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				CBE2507D30B2AFFC00858D81 /* Ecommerce SwiftUIPractice */,
+				CBE2508930B327CC00858D81 /* New Folder */,
 			);
 			name = "Ecommerce SwiftUIPractice";
 			packageProductDependencies = (
